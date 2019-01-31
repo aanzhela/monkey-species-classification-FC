@@ -1,6 +1,6 @@
 # monkey-species-classification-FC
 
-This is the code for classifying monkey species from images using Fully Connected.
+This code used fully connected for classifying monkey species.
 
 Accuracy: 0.65%
 
